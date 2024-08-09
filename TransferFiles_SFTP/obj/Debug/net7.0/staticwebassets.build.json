@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9/yMm1U8UV1VJYOhGhienqrjT7g1Or+3t+ZFg34uwQY=",
+  "Source": "TransferFiles_SFTP",
+  "BasePath": "_content/TransferFiles_SFTP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

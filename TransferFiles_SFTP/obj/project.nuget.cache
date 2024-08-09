@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "s9l2YdRofcTd+VirdwQ7cVxvj/PsGJrb4zzwrsVTyhMhPaEzSY2JgacHJiHRKxYEK3zluxOvhzzE3/kY+3ITTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\desarrollador1\\Desktop\\Modulo para administración nuevas empresas\\TransferFiles_SFTP\\TransferFiles_SFTP\\TransferFiles_SFTP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\desarrollador1\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
+    "C:\\Users\\desarrollador1\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\desarrollador1\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\desarrollador1\\.nuget\\packages\\ssh.net\\2024.1.0\\ssh.net.2024.1.0.nupkg.sha512",
+    "C:\\Users\\desarrollador1\\.nuget\\packages\\swashbuckle.aspnetcore\\6.7.0\\swashbuckle.aspnetcore.6.7.0.nupkg.sha512",
+    "C:\\Users\\desarrollador1\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.7.0\\swashbuckle.aspnetcore.swagger.6.7.0.nupkg.sha512",
+    "C:\\Users\\desarrollador1\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.7.0\\swashbuckle.aspnetcore.swaggergen.6.7.0.nupkg.sha512",
+    "C:\\Users\\desarrollador1\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.7.0\\swashbuckle.aspnetcore.swaggerui.6.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
